@@ -1,3 +1,5 @@
 hi this is my first file in git 
 add some thing new in it 
 to direct commit 
+i have create some change in my file
+and add more thing in it 
