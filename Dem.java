@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.pro25;
+
+/**
+ *
+ * @author ayank
+ */
+public class Dem {
+    
+     String name ;
+    int price;
+     static String type ;
+    
+    
+}
